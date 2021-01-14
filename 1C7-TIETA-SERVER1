@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="TIETA",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] TIETA - 1ª TEMP - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="TIETA",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] TIETA - 1ª TEMP - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 group-title="série • Tieta",[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tieta[/COLOR][COLOR yellow] -> [/COLOR] T01 EP01
