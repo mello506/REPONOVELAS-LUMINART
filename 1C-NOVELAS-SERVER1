@@ -25,31 +25,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
-<link>NO LINK</link>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR blue][B] LISTA DE NOVELAS NO SERVER 1[/B][/COLOR]</name>
-<link>NO LINK</link>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info> LISTA DE NOVELAS  </info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] POR AMOR[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTNOVELAS/main/A2G-TIETA-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
@@ -59,7 +34,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <channels>
 <channel>
@@ -112,7 +86,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] VERDADES SECRETAS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTNOVELAS/main/A2A-VERDADESSECRETAS-SERVER1</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/REPONOVELAS-LUMINART/main/1C1-VERDADESSECRETAS-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>NOVELAS</info>
