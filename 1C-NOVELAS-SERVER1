@@ -25,6 +25,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A FORÇA DO QUERER[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPONOVELAS-LUMINART/main/1C8-AFORCADOQUERER-SERVER1</externallink>
+<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>NOVELAS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] POR AMOR[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPONOVELAS-LUMINART/main/1C6-PORAMOR-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
