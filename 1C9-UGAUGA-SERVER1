@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR blue] Uga Uga - Dublado[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="CATEGORIA",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] Uga Uga - Dublado[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 group-title="série • Uga Uga",[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Uga Uga[/B][/COLOR][COLOR yellow] -> [/COLOR] T01E01
