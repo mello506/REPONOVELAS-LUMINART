@@ -26,7 +26,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://img.elo7.com.br/product/zoom/36CD7AE/novela-senhora-do-destino-completa-envio-imediato-novelas-digitais.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Novela Senhora do Destino</info>
 <genre>NOVELAS</genre>
@@ -35,7 +35,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Senhora do Destino[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://img.elo7.com.br/product/zoom/36CD7AE/novela-senhora-do-destino-completa-envio-imediato-novelas-digitais.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui os episódios da novela Senhora do Destino no SERVER 2</info>
 <genre>NOVELAS</genre>  
@@ -45,7 +45,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=qq6xou0hVN4</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://img.elo7.com.br/product/zoom/36CD7AE/novela-senhora-do-destino-completa-envio-imediato-novelas-digitais.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -251,10 +251,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56325.mp4$$lsname=[B]T01E194[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
 <link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56326.mp4$$lsname=[B]T01E195[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://img.elo7.com.br/product/zoom/36CD7AE/novela-senhora-do-destino-completa-envio-imediato-novelas-digitais.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Maria do Carmo, mãe de cinco filhos, sucedeu na vida com muita luta e perseverança, mas ainda tem uma batalha para vencer: conseguir o amor de sua filha que foi sequestrada quando ainda era recém-nascida.</info>
 <genre>NOVELAS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
