@@ -1,702 +1,235 @@
-#EXTM3U
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Novela Senhora do Destino</info>
+<genre>NOVELAS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="ICONE" ,[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR blue] O Rei do Gado - T01 - Dublado[/COLOR]
-LINKDOFILME
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Senhora do Destino[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da novela Senhora do Destino no SERVER 2</info>
+<genre>NOVELAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP1
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41215.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP2
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41216.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP3
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41217.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP4
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41218.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP5
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41219.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP6
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41220.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP7
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41221.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP8
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41222.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP9
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41223.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP10
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41224.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP11
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41225.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP12
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41226.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP13
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41227.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP14
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41228.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP15
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41229.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP16
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41230.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP17
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41231.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP18
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41232.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP19
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41233.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP20
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41234.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP21
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41235.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP22
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41236.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP23
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41237.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP24
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41238.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP25
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41239.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP26
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41240.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP27
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41241.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP28
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41242.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP29
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41243.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP30
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41244.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP31
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41245.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP32
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41246.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP33
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41247.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP34
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41248.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP35
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41249.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP36
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41250.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP37
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41251.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP38
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41252.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP39
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41253.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP40
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41254.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP41
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41255.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP42
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41256.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP43
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41257.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP44
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41258.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP45
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41259.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP46
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41260.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP47
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41261.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP48
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41262.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP49
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41263.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP50
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41264.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP51
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41265.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP52
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41266.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP53
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41267.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP54
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41268.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP55
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41269.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP56
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41270.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP57
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41271.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP58
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41272.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP59
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41273.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP60
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41274.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP61
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41275.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP62
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41276.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP63
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41277.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP64
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41278.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP65
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41279.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP66
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41280.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP67
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41281.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP68
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41282.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP69
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41283.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP70
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41284.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP71
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41285.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP72
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41286.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP73
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41287.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP74
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41288.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP75
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41289.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP76
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41290.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP77
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41291.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP78
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41292.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP79
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41293.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP80
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41294.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP81
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41295.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP82
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41296.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP83
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41297.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP84
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41298.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP85
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41299.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP86
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41300.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP87
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41301.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP88
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41302.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP89
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41303.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP90
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41304.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP91
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41305.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP92
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41306.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP93
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41307.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP94
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41308.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP95
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41309.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP96
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41310.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP97
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41311.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP98
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41312.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP99
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41313.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP100
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41314.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP101
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41315.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP102
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41316.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP103
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41317.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP104
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41318.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP105
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41319.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP106
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41320.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP107
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41321.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP108
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41322.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP109
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41323.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP110
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41324.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP111
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41325.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP112
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41326.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP113
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41327.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP114
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41328.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP115
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41329.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP116
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41330.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP117
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41331.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP118
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41332.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP119
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41333.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP120
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41334.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP121
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41335.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP122
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41336.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP123
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41337.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP124
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41338.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP125
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41339.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP126
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41340.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP127
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41341.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP128
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41342.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP129
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41343.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP130
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41344.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP131
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41345.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP132
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41346.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP133
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41347.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP134
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41348.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP135
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41349.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP136
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41350.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP137
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41351.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP138
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41352.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP139
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41353.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP140
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41354.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP141
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41355.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP142
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41356.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP143
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41357.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP144
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41358.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP145
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41359.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP146
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41360.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP147
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41361.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP148
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41362.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP149
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41363.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Rei do Gado[/COLOR][COLOR yellow] -> [/COLOR] T01EP150
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/41364.mp4
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qq6xou0hVN4</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>NOVELAS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino - 2004 - Dublado[/B][/COLOR]</title>
 
-#EXTINF:-1 tvg-id="" tvg-name="CATEGORIA" tvg-logo="ICONE" group-title="NOVELA",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] Eramos Seis - T01 - Dublado LEG LEGFIX[/COLOR]
-LINKDOFILME
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56132.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56133.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56134.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56135.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56136.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56137.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56138.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56139.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56140.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56141.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56142.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56143.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56144.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56145.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56146.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56147.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56148.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56149.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56150.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56151.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56152.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56153.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56154.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56155.mp4$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56156.mp4$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56157.mp4$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56158.mp4$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56159.mp4$$lsname=[B]T01E28[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56160.mp4$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56161.mp4$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56162.mp4$$lsname=[B]T01E31[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56163.mp4$$lsname=[B]T01E32[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56164.mp4$$lsname=[B]T01E33[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56165.mp4$$lsname=[B]T01E34[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56166.mp4$$lsname=[B]T01E35[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56167.mp4$$lsname=[B]T01E36[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56168.mp4$$lsname=[B]T01E37[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56169.mp4$$lsname=[B]T01E38[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56170.mp4$$lsname=[B]T01E39[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56171.mp4$$lsname=[B]T01E40[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56172.mp4$$lsname=[B]T01E41[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56173.mp4$$lsname=[B]T01E42[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56174.mp4$$lsname=[B]T01E43[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56175.mp4$$lsname=[B]T01E44[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56176.mp4$$lsname=[B]T01E45[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56177.mp4$$lsname=[B]T01E46[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56178.mp4$$lsname=[B]T01E47[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56179.mp4$$lsname=[B]T01E48[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56180.mp4$$lsname=[B]T01E49[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56181.mp4$$lsname=[B]T01E50[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56182.mp4$$lsname=[B]T01E51[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56183.mp4$$lsname=[B]T01E52[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56184.mp4$$lsname=[B]T01E53[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56185.mp4$$lsname=[B]T01E54[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56186.mp4$$lsname=[B]T01E55[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56187.mp4$$lsname=[B]T01E56[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56188.mp4$$lsname=[B]T01E57[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56189.mp4$$lsname=[B]T01E58[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56190.mp4$$lsname=[B]T01E59[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56191.mp4$$lsname=[B]T01E60[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56192.mp4$$lsname=[B]T01E61[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56193.mp4$$lsname=[B]T01E62[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56194.mp4$$lsname=[B]T01E63[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56195.mp4$$lsname=[B]T01E64[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56196.mp4$$lsname=[B]T01E65[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56197.mp4$$lsname=[B]T01E66[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56198.mp4$$lsname=[B]T01E67[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56199.mp4$$lsname=[B]T01E68[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56200.mp4$$lsname=[B]T01E69[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56201.mp4$$lsname=[B]T01E70[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56202.mp4$$lsname=[B]T01E71[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56203.mp4$$lsname=[B]T01E72[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56204.mp4$$lsname=[B]T01E73[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56205.mp4$$lsname=[B]T01E74[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56206.mp4$$lsname=[B]T01E75[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56207.mp4$$lsname=[B]T01E76[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56208.mp4$$lsname=[B]T01E77[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56209.mp4$$lsname=[B]T01E78[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56210.mp4$$lsname=[B]T01E79[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56211.mp4$$lsname=[B]T01E80[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56212.mp4$$lsname=[B]T01E81[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56213.mp4$$lsname=[B]T01E82[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56214.mp4$$lsname=[B]T01E83[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56215.mp4$$lsname=[B]T01E84[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56216.mp4$$lsname=[B]T01E85[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56217.mp4$$lsname=[B]T01E86[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56218.mp4$$lsname=[B]T01E87[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56219.mp4$$lsname=[B]T01E88[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56220.mp4$$lsname=[B]T01E89[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56221.mp4$$lsname=[B]T01E90[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56222.mp4$$lsname=[B]T01E91[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56223.mp4$$lsname=[B]T01E92[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56224.mp4$$lsname=[B]T01E93[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56225.mp4$$lsname=[B]T01E94[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56226.mp4$$lsname=[B]T01E95[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56227.mp4$$lsname=[B]T01E96[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56228.mp4$$lsname=[B]T01E97[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56229.mp4$$lsname=[B]T01E98[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56230.mp4$$lsname=[B]T01E99[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56231.mp4$$lsname=[B]T01E100[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56232.mp4$$lsname=[B]T01E101[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56233.mp4$$lsname=[B]T01E102[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56234.mp4$$lsname=[B]T01E103[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56235.mp4$$lsname=[B]T01E104[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56236.mp4$$lsname=[B]T01E105[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56237.mp4$$lsname=[B]T01E106[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56238.mp4$$lsname=[B]T01E107[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56239.mp4$$lsname=[B]T01E108[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56240.mp4$$lsname=[B]T01E109[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56241.mp4$$lsname=[B]T01E110[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56242.mp4$$lsname=[B]T01E111[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56243.mp4$$lsname=[B]T01E112[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56244.mp4$$lsname=[B]T01E113[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56245.mp4$$lsname=[B]T01E114[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56246.mp4$$lsname=[B]T01E115[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56247.mp4$$lsname=[B]T01E116[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56248.mp4$$lsname=[B]T01E117[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56249.mp4$$lsname=[B]T01E118[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56250.mp4$$lsname=[B]T01E119[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56251.mp4$$lsname=[B]T01E120[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56252.mp4$$lsname=[B]T01E121[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56253.mp4$$lsname=[B]T01E122[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56254.mp4$$lsname=[B]T01E123[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56255.mp4$$lsname=[B]T01E124[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56256.mp4$$lsname=[B]T01E125[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56257.mp4$$lsname=[B]T01E126[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56258.mp4$$lsname=[B]T01E127[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56259.mp4$$lsname=[B]T01E128[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56260.mp4$$lsname=[B]T01E129[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56261.mp4$$lsname=[B]T01E130[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56262.mp4$$lsname=[B]T01E131[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56263.mp4$$lsname=[B]T01E132[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56264.mp4$$lsname=[B]T01E133[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56265.mp4$$lsname=[B]T01E134[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56266.mp4$$lsname=[B]T01E135[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56267.mp4$$lsname=[B]T01E136[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56268.mp4$$lsname=[B]T01E137[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56269.mp4$$lsname=[B]T01E138[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56270.mp4$$lsname=[B]T01E139[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56271.mp4$$lsname=[B]T01E140[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56272.mp4$$lsname=[B]T01E141[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56273.mp4$$lsname=[B]T01E142[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56274.mp4$$lsname=[B]T01E143[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56275.mp4$$lsname=[B]T01E144[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56276.mp4$$lsname=[B]T01E145[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56277.mp4$$lsname=[B]T01E146[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56278.mp4$$lsname=[B]T01E147[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56279.mp4$$lsname=[B]T01E148[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56280.mp4$$lsname=[B]T01E149[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56281.mp4$$lsname=[B]T01E150[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56282.mp4$$lsname=[B]T01E151[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56283.mp4$$lsname=[B]T01E152[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56284.mp4$$lsname=[B]T01E153[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56285.mp4$$lsname=[B]T01E154[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56286.mp4$$lsname=[B]T01E155[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56287.mp4$$lsname=[B]T01E156[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56288.mp4$$lsname=[B]T01E157[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56289.mp4$$lsname=[B]T01E158[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56290.mp4$$lsname=[B]T01E159[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56291.mp4$$lsname=[B]T01E160[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56292.mp4$$lsname=[B]T01E161[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56293.mp4$$lsname=[B]T01E162[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56294.mp4$$lsname=[B]T01E163[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56295.mp4$$lsname=[B]T01E164[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56296.mp4$$lsname=[B]T01E165[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56297.mp4$$lsname=[B]T01E166[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56298.mp4$$lsname=[B]T01E167[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56299.mp4$$lsname=[B]T01E168[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56300.mp4$$lsname=[B]T01E169[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56301.mp4$$lsname=[B]T01E170[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56302.mp4$$lsname=[B]T01E171[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56303.mp4$$lsname=[B]T01E172[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56304.mp4$$lsname=[B]T01E173[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56305.mp4$$lsname=[B]T01E174[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56306.mp4$$lsname=[B]T01E175[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56307.mp4$$lsname=[B]T01E176[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56308.mp4$$lsname=[B]T01E177[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56309.mp4$$lsname=[B]T01E178[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56310.mp4$$lsname=[B]T01E179[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56311.mp4$$lsname=[B]T01E180[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56312.mp4$$lsname=[B]T01E181[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56313.mp4$$lsname=[B]T01E182[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56314.mp4$$lsname=[B]T01E183[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56315.mp4$$lsname=[B]T01E184[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56316.mp4$$lsname=[B]T01E185[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56317.mp4$$lsname=[B]T01E186[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56318.mp4$$lsname=[B]T01E187[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56319.mp4$$lsname=[B]T01E188[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56320.mp4$$lsname=[B]T01E189[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56321.mp4$$lsname=[B]T01E190[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56322.mp4$$lsname=[B]T01E191[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56323.mp4$$lsname=[B]T01E192[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56324.mp4$$lsname=[B]T01E193[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56325.mp4$$lsname=[B]T01E194[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
+<link>http://dnsx.co:80/series/vania.janaina2/a1aw5s/56326.mp4$$lsname=[B]T01E195[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Senhora do Destino[/B][/COLOR]</link>
 
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP1
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58795.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP2
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58796.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP3
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58797.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP4
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58798.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP5
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58799.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP6
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58800.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP7
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58801.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP8
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58802.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP9
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58803.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP10
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58804.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP11
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58805.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP12
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58806.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP13
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58807.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP14
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58808.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP15
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58809.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP16
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58810.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP17
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58811.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP18
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58812.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP19
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58813.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP20
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58814.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP21
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58815.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP22
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58816.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP23
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58817.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP24
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58818.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP25
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58819.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP26
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58820.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP27
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58821.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP28
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58822.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP29
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58823.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP30
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58824.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP31
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58825.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP32
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58826.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP33
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58827.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP34
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58828.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP35
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58829.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP36
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58830.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP37
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58831.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP38
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58832.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP39
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58833.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP40
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58834.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP41
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58835.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP42
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58836.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP43
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58837.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP44
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58838.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP45
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58839.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP46
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58840.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP47
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58841.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP48
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58842.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP49
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58843.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP50
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58844.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP51
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58845.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP52
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58846.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP53
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58847.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP54
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58848.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP55
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58849.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP56
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58850.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP57
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58851.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP58
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58852.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP59
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58853.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP60
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58854.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP61
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58855.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP62
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58856.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP63
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58857.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP64
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58858.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP65
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58859.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP66
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58860.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP67
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58861.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP68
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58862.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP69
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58863.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP70
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58864.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP71
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58865.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP72
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58866.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP73
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58867.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP74
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58868.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP75
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58869.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP76
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58870.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP77
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58871.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP78
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58872.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP79
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58873.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP80
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58874.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP81
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58875.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP82
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58876.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP83
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58877.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP84
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58878.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP85
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58879.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP86
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58880.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP87
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58881.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP88
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58882.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP89
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58883.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP90
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58884.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP91
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58885.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP92
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58886.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP93
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58887.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP94
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58888.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP95
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58889.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP96
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58890.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP97
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58891.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP98
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58892.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP99
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58893.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP100
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58894.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP101
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58895.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP102
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58896.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP103
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58897.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP104
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58898.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP105
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58899.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP106
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58900.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP107
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58901.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP108
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58902.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP109
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58903.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP110
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58904.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP111
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58905.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP112
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58906.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP113
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58907.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP114
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58908.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP115
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58909.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP116
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58910.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP117
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58911.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP118
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58912.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP119
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58913.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP120
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58914.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP121
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58915.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP122
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58916.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP123
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58917.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP124
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58918.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP125
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58919.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP126
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58920.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP127
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58921.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP128
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58922.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP129
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58923.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP130
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58924.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP131
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58925.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP132
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58926.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP133
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58927.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP134
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58928.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP135
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58929.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP136
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58930.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP137
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58931.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP138
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58932.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP139
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58933.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP140
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58934.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP141
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58935.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP142
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58936.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP143
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58937.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP144
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58938.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP145
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58939.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP146
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58940.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP147
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58941.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP148
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58942.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP149
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58943.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP150
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58944.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP151
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58945.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP152
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58946.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP153
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58947.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eramos Seis[/COLOR][COLOR yellow] -> [/COLOR] T01EP154
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/58948.mp4
-
-#EXTINF:-1 tvg-logo="ICONE" ,[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR blue] Riacho Doce - T01 - Dublado[/COLOR]
-LINKDOFILME
-
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP1
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91561.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP2
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91562.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP3
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91563.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP4
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91564.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP5
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91565.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP6
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91566.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP7
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91567.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP8
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91568.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP9
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91569.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP10
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91570.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP11
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91571.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP12
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91572.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP13
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91573.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP14
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91574.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP15
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91575.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP16
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91576.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP17
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91577.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP18
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91578.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP19
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91579.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP20
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91580.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP21
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91581.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP22
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91582.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP23
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91583.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP24
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91584.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP25
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91585.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP26
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91586.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP27
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91587.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP28
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91588.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP29
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91589.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP30
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91590.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP31
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91591.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP32
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91592.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP33
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91593.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP34
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91594.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP35
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91595.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP36
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91596.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP37
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91597.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP38
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91598.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP39
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91599.mp4
-#EXTINF:-1,[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] Riacho Doce[/COLOR][COLOR yellow] -> [/COLOR] T01EP40
-http://dnsx.co:80/series/vania.janaina2/a1aw5s/91600.mp4
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Maria do Carmo, mãe de cinco filhos, sucedeu na vida com muita luta e perseverança, mas ainda tem uma batalha para vencer: conseguir o amor de sua filha que foi sequestrada quando ainda era recém-nascida.</info>
+<genre>NOVELAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
